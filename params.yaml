@@ -1,0 +1,6 @@
+
+ocr:
+  engine: pytesseract
+  lang: eng
+nlp:
+  model_name: bert-base-uncased

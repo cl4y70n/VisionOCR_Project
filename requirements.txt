@@ -1,0 +1,11 @@
+
+pandas
+numpy
+opencv-python
+Pillow
+pytesseract
+paddleocr
+torch
+transformers
+scikit-learn
+streamlit
